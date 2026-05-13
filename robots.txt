@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://twt2shiv.github.io/reference-8k7tyt/sitemap.xml
